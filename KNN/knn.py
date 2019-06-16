@@ -1,4 +1,4 @@
-# Machine Learning HW2-KNN
+
 
 import numpy as np
 import random
